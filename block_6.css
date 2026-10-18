@@ -1,0 +1,27 @@
+.block {
+    display: block;
+    border: 3px solid red;
+    background-color: lightcoral;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.none {
+    display: none; /* или демонстрация inline/других свойств */
+    border: 3px solid blue;
+    background-color: lightblue;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Пример с box-sizing */
+div {
+    box-sizing: border-box;
+    width: 150px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+}
