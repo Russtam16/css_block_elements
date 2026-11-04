@@ -8,12 +8,12 @@
 
 .section {
     display: flex;
-    color: white;
+    color: aquamarine;
     justify-content: center;
     align-items: center;
-    font-size: 20px;
-    border-radius: 10px;
-    background-color: #667eea;
+    font-size: 50px;
+    border-radius: 20px;
+    background-color: rgba(10, 6, 194, 0.505);
 }
 
 .header {
